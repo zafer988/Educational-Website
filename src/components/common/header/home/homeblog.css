@@ -1,0 +1,5 @@
+.blog .container h1,
+.blog h3 {
+    display: flex;
+    justify-content: center;
+}

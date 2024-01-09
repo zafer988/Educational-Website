@@ -1,0 +1,9 @@
+.homeAbout #heading h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.homeAbout #heading h3 {
+    display: flex;
+    justify-content: center;
+}
